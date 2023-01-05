@@ -1,7 +1,8 @@
 # Pewlett_Hackard_module7
 Pewlett Hackard is facing an upcoming "silver tsunami". A very large number of employees will be reaching retirment age at the same time creating a mass exodus of talent.
 
-Objectives
+**Objectives**
+
 We have been tasked with compiling and analyzing 6 different spreadsheets maintained by the company to determine:
 
 Total number and details of employees reaching retirement age
